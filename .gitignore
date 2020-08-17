@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+
+czi_stitcher/data/input/*
+czi_stitcher/data/tmp/*
+czi_stitcher/data/output/*
+
+scratch/
+
+*.czi
+*.tif
+*.tiff
